@@ -2,7 +2,7 @@
 
 I am a **Cybersecurity Enthusiast & Computer Science Undergraduate** specializing in **penetration testing, ethical hacking, cryptography, DFIR (Digital Forensics and Incident Response), and AI-driven cybersecurity solutions**. Passionate about **integrating Machine Learning and Deep Neural Networks into cybersecurity** to enhance threat detection, anomaly identification, and automated defense mechanisms. With a creative edge from visual media editing and published photography, I approach challenges with a unique blend of analytical thinking and artistic vision.
 
----
+
 
 ## 🎓 Education
 
@@ -10,7 +10,7 @@ I am a **Cybersecurity Enthusiast & Computer Science Undergraduate** specializin
 📍 RNS Institute of Technology, India | **Dec 2022 - Dec 2026**  
 📊 **GPA:** 8/10
 
----
+
 
 ## 🛠️ Skills
 
@@ -25,7 +25,7 @@ Penetration testing, **DFIR**, cryptographic security, and **network intrusion d
 **DevOps & Cloud:** Docker 🐳, Kubernetes ☸️, AWS ☁️, CI/CD Pipelines  
 **Blockchain & Security:** Solidity 💰, Smart Contracts 📝, Web3.js 🌐  
 
----
+
 
 ## 🔥 Featured Projects
 
@@ -66,7 +66,7 @@ Penetration testing, **DFIR**, cryptographic security, and **network intrusion d
 
 🔗 [GitHub Repository](https://github.com/aspects1/network-testing-web-app)
 
----
+
 
 ## 🔖 Certifications
 - **Cisco Certified Support Technician Cybersecurity (CCST) - Dec 2024**
@@ -78,7 +78,7 @@ Penetration testing, **DFIR**, cryptographic security, and **network intrusion d
 - **Cisco Python Essentials 1 - Aug 2023**
 - **Infosys Springboard - C++ Fundamentals - Jan 2023**
 
----
+
 
 ## 📜 Research & Publications
 
@@ -90,14 +90,14 @@ Penetration testing, **DFIR**, cryptographic security, and **network intrusion d
   - Discusses **real-world cybersecurity applications** and mitigation strategies to improve security defenses.  
 🔗 [Publication Link](https://ijarcce.com/papers/exploiting-vulnerabilities-using-keystroke-injections/)
 
----
+
 
 ## 📫 Let's Connect!
 📧 **Email:** getsmayancn@gmail.com 
 🔗 **LinkedIn:** Smayan C Nandi
 🌐 **GitHub:** aspects1
 
----
+
 
 ## 🤝 Let's Collaborate!
 I'm always open to collaborating on **cybersecurity research, AI-driven security solutions, and blockchain security projects**. Feel free to check out my repositories and get in touch!
