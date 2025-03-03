@@ -95,7 +95,7 @@ Penetration testing, **DFIR**, cryptographic security, and **network intrusion d
 ## 📫 Let's Connect!
 📧 **Email:** getsmayancn@gmail.com 
 🔗 **LinkedIn:** Smayan C Nandi
-🌐 **GitHub:** aspects1
+🌐 **GitHub:** smayancn
 
 
 
