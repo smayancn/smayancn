@@ -1,12 +1,12 @@
 ### 🔹 Welcome to My GitHub Profile - Smayan Nandi
 
-# I am a **Cybersecurity Enthusiast & Computer Science Undergraduate** specializing in **penetration testing, ethical hacking, cryptography, DFIR (Digital Forensics and Incident Response), and AI-driven cybersecurity solutions**. Passionate about **integrating Machine Learning and Deep Neural Networks into cybersecurity** to enhance threat detection, anomaly identification, and automated defense mechanisms. With a creative edge from visual media editing and published photography, I approach challenges with a unique blend of analytical thinking and artistic vision.
+I am a **Cybersecurity Enthusiast & Computer Science Undergraduate** specializing in **penetration testing, ethical hacking, cryptography, DFIR (Digital Forensics and Incident Response), and AI-driven cybersecurity solutions**. Passionate about **integrating Machine Learning and Deep Neural Networks into cybersecurity** to enhance threat detection, anomaly identification, and automated defense mechanisms. With a creative edge from visual media editing and published photography, I approach challenges with a unique blend of analytical thinking and artistic vision.
 
 
 
 ## 🎓 Education
 
-# **Bachelor of Engineering (B.E.), Computer Science & Engineering - Cybersecurity Minor**  
+ **Bachelor of Engineering (B.E.), Computer Science & Engineering - Cybersecurity Minor**  
 📍 RNS Institute of Technology, India | **Dec 2022 - Dec 2026**  
 📊 **GPA:** 8/10
 
@@ -14,7 +14,7 @@
 
 ## 🛠️ Skills
 
-# 🎯 **Machine Learning & AI in Cybersecurity:**  
+ 🎯 **Machine Learning & AI in Cybersecurity:**  
 Integrating **Deep Learning**, **Neural Networks**, and **Anomaly Detection** for automated security threat mitigation.  
 🛡️ **Cybersecurity & Ethical Hacking:**  
 Penetration testing, **DFIR**, cryptographic security, and **network intrusion detection**.  
