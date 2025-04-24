@@ -36,7 +36,7 @@ Penetration testing, **DFIR**, cryptographic security, and **network intrusion d
   - Analyzed network traffic to detect **malicious activity and insider threats**.  
   - Implemented in **Python using Scikit-learn, TensorFlow, and Wireshark datasets**.  
 🔹 **Skills:** Machine Learning · Cybersecurity · Network Security  
-🔗 [GitHub Repository](https://github.com/smayancn/adaptive-threat-hunter)
+🔗 [GitHub Repository](https://github.com/smayancn/threat-hunter)
 
 ### 🛠 **Automated Digispark Payload for WiFi Credential Extraction**
 🔹 Developed a payload leveraging the **Digispark microcontroller** to execute automated credential harvesting on Windows machines.  
