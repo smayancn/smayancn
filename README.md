@@ -1,35 +1,35 @@
-### 🔹 Welcome to My GitHub Profile - Smayan Nandi
+###  Welcome to My GitHub Profile - Smayan Nandi
 
 I am a **Cybersecurity Enthusiast & Computer Science Undergraduate** specializing in **penetration testing, ethical hacking, cryptography, DFIR (Digital Forensics and Incident Response), and AI-driven cybersecurity solutions**. Passionate about **integrating Machine Learning and Deep Neural Networks into cybersecurity** to enhance threat detection, anomaly identification, and automated defense mechanisms. With a creative edge from visual media editing and published photography, I approach challenges with a unique blend of analytical thinking and artistic vision.
 
 
 
-## 🎓 Education
+##  Education
 
  **Bachelor of Engineering (B.E.), Computer Science & Engineering - Cybersecurity Minor**  
 📍 RNS Institute of Technology, India | **Dec 2022 - Dec 2026**  
-📊 **GPA:** 8/10
+ **GPA:** 8/10
 
 
 
 ## 🛠️ Skills
 
- 🎯 **Machine Learning & AI in Cybersecurity:**  
+  **Machine Learning & AI in Cybersecurity:**  
 Integrating **Deep Learning**, **Neural Networks**, and **Anomaly Detection** for automated security threat mitigation.  
-🛡️ **Cybersecurity & Ethical Hacking:**  
+ **Cybersecurity & Ethical Hacking:**  
 Penetration testing, **DFIR**, cryptographic security, and **network intrusion detection**.  
 
-**Languages:** Python 🐍, C, C++, JavaScript  
-**Cybersecurity Tools:** Kali Linux 🏴‍☠️, Metasploit 💀, Wireshark 🌊, Burp Suite 🔍  
-**Machine Learning:** TensorFlow 🤖, PyTorch 🔥, Scikit-learn 📊, Deep Learning  
-**DevOps & Cloud:** Docker 🐳, Kubernetes ☸️, AWS ☁️, CI/CD Pipelines  
-**Blockchain & Security:** Solidity 💰, Smart Contracts 📝, Web3.js 🌐  
+**Languages:** Python , C, C++, JavaScript  
+**Cybersecurity Tools:** Kali Linux , Metasploit , Wireshark , Burp Suite   
+**Machine Learning:** TensorFlow , PyTorch , Scikit-learn , Deep Learning  
+**DevOps & Cloud:** Docker , Kubernetes , AWS , CI/CD Pipelines  
+**Blockchain & Security:** Solidity , Smart Contracts , Web3.js   
 
 
 
-## 🔥 Featured Projects
+##  Featured Projects
 
-### 🛠 **Adaptive Threat Hunting: A Machine Learning-Based Real-Time Network Anomaly Detection System**
+###  **Adaptive Threat Hunting: A Machine Learning-Based Real-Time Network Anomaly Detection System**
 🔹 Developed a **Machine Learning model** for detecting **network anomalies and security breaches** in real time.  
 🔹 **Key Features:**  
   - Utilized **Deep Neural Networks (DNNs) and Random Forest** for attack detection.  
@@ -38,7 +38,7 @@ Penetration testing, **DFIR**, cryptographic security, and **network intrusion d
 🔹 **Skills:** Machine Learning · Cybersecurity · Network Security  
 🔗 [GitHub Repository](https://github.com/smayancn/threat-hunter/tree/v1)
 
-### 🛠 **Automated Digispark Payload for WiFi Credential Extraction**
+###  **Automated Digispark Payload for WiFi Credential Extraction**
 🔹 Developed a payload leveraging the **Digispark microcontroller** to execute automated credential harvesting on Windows machines.  
 🔹 **Key Features:**  
   - Extracts all saved WiFi credentials in under **20 seconds**.  
@@ -47,7 +47,7 @@ Penetration testing, **DFIR**, cryptographic security, and **network intrusion d
 🔹 **Skills:** Penetration Testing · Cybersecurity · Microcontrollers  
 🔗 [GitHub Repository](https://github.com/aspects1/digispark-payloads)
 
-### 🛠 **Digispark Reverse PowerShell Payload**
+###  **Digispark Reverse PowerShell Payload**
 🔹 Created a **stealthy reverse shell** payload executed via **Digispark microcontroller**.  
 🔹 **Key Features:**  
   - Establishes a reverse connection to a remote listener.  
@@ -56,7 +56,7 @@ Penetration testing, **DFIR**, cryptographic security, and **network intrusion d
 🔹 **Skills:** Penetration Testing · Secure Shell (SSH) · PowerShell Scripting  
 🔗 [GitHub Repository](https://github.com/aspects1/digispark-payloads)
 
-### 🛠 **Network Testing Web App**
+###  **Network Testing Web App**
 🔹 Developed a **web-based tool for network analysis**.  
 🔹 **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, JWT Authentication.  
 🔹 **Key Features:**  
@@ -83,7 +83,7 @@ Penetration testing, **DFIR**, cryptographic security, and **network intrusion d
 ## 📜 Research & Publications
 
 ### **Exploiting Vulnerabilities via Keystroke Injections**
-📄 **Published in:** International Journal of Advanced Research in Computer and Communication Engineering (IJARCCE) - Dec 12, 2024  
+ **Published in:** International Journal of Advanced Research in Computer and Communication Engineering (IJARCCE) - Dec 12, 2024  
 🔹 **Summary:**  
   - Explores payload delivery systems via **keystroke injection** using the **Digispark microcontroller**.  
   - Covers ethical hacking methodologies, including **reverse PowerShell shells, WiFi credential theft, privilege escalation, and backdoor creation**.  
@@ -99,7 +99,7 @@ Penetration testing, **DFIR**, cryptographic security, and **network intrusion d
 
 
 
-## 🤝 Let's Collaborate!
+##  Let's Collaborate!
 I'm always open to collaborating on **cybersecurity research, AI-driven security solutions, and blockchain security projects**. Feel free to check out my repositories and get in touch!
 
-🚀 **Together, let's build a safer digital world!** 🔐
+ 
