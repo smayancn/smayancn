@@ -38,6 +38,16 @@ Penetration testing, **DFIR**, cryptographic security, and **network intrusion d
 🔹 **Skills:** Machine Learning · Cybersecurity · Network Security  
 🔗 [GitHub Repository](https://github.com/smayancn/threat-hunter/tree/v1)
 
+###  **GroMo AI Microlearning Coach**
+🔹 Built a personalized AI-powered **microlearning recommendation system** to enhance performance of GroMo Partners in selling financial products.  
+🔹 **Key Features:**  
+  - ML-powered weakness detection using **RandomForestClassifier** on GP performance data.  
+  - Flask-based REST API for personalized video, tip, and action recommendations.  
+  - **Streamlit dashboard** for GPs to interactively receive tailored content.  
+  - Modular backend with `.env` config support for flexible deployment.  
+🔹 **Skills:** Machine Learning · Flask API · Streamlit · EdTech · Recommender Systems  
+🔗 [GitHub Repository](https://github.com/smayancn/GroMo-AI-microlearning-coach)
+
 ###  **Automated Digispark Payload for WiFi Credential Extraction**
 🔹 Developed a payload leveraging the **Digispark microcontroller** to execute automated credential harvesting on Windows machines.  
 🔹 **Key Features:**  
@@ -45,7 +55,7 @@ Penetration testing, **DFIR**, cryptographic security, and **network intrusion d
   - Formats data into structured XML for easy parsing.  
   - Sends extracted credentials to a remote webhook for analysis.  
 🔹 **Skills:** Penetration Testing · Cybersecurity · Microcontrollers  
-🔗 [GitHub Repository](https://github.com/aspects1/digispark-payloads)
+🔗 [GitHub Repository](https://github.com/smayancn/digispark-payloads)
 
 ###  **Digispark Reverse PowerShell Payload**
 🔹 Created a **stealthy reverse shell** payload executed via **Digispark microcontroller**.  
@@ -54,7 +64,7 @@ Penetration testing, **DFIR**, cryptographic security, and **network intrusion d
   - Executes real-time commands remotely on the target machine.  
   - Implements evasion techniques to bypass security measures.  
 🔹 **Skills:** Penetration Testing · Secure Shell (SSH) · PowerShell Scripting  
-🔗 [GitHub Repository](https://github.com/aspects1/digispark-payloads)
+🔗 [GitHub Repository](https://github.com/smayancn/digispark-payloads)
 
 ###  **Network Testing Web App**
 🔹 Developed a **web-based tool for network analysis**.  
@@ -62,9 +72,9 @@ Penetration testing, **DFIR**, cryptographic security, and **network intrusion d
 🔹 **Key Features:**  
   - Conducts real-time **network performance testing**.  
   - User-friendly interface for executing various network diagnostics.  
-🔹 **Skills:** Front-End Development · Back-End Operations · JSON Web Token (JWT)
+🔹 **Skills:** Front-End Development · Back-End Operations · JSON Web Token (JWT)  
+🔗 [GitHub Repository](https://github.com/smayancn/network-testing-web-app)
 
-🔗 [GitHub Repository](https://github.com/aspects1/network-testing-web-app)
 
 
 
