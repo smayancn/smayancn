@@ -8,7 +8,7 @@ I am a **Cybersecurity Enthusiast & Computer Science Undergraduate** specializin
 
  **Bachelor of Engineering (B.E.), Computer Science & Engineering - Cybersecurity Minor**  
 📍 RNS Institute of Technology, India | **Dec 2022 - Dec 2026**  
- **GPA:** 8/10
+ **GPA:** 8.5/10
 
 
 
